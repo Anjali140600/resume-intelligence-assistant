@@ -13,7 +13,7 @@ from utils.text_processing import clean_text, extract_text_from_pdf
 
 
 st.set_page_config(
-    page_title="Resume Intelligence Assistant",
+    page_title="Anjali Resume ATS Checker",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -156,7 +156,7 @@ def render_recommendations(
 
 matcher = load_nlp_model()
 
-st.title("📄 Resume Intelligence Assistant")
+st.title("📄 Anjali Resume ATS Checker")
 st.markdown(
     "Compare your résumé against a job description to measure alignment, identify skill gaps, "
     "and receive a prioritized improvement plan."

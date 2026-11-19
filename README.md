@@ -1,4 +1,4 @@
-# Resume Intelligence Assistant
+# Anjali Resume ATS Checker
 
 A professional NLP-powered application that compares a resume against a job description and provides an intelligent matching score, skill gap analysis, and personalized recommendations.
 
